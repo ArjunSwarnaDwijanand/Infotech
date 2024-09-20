@@ -1,0 +1,14 @@
+What is Java thread?
+
+A thread is a separate path of execution that can run concurrently with other threads. It is a lightweight process.
+
+What is the difference between process and thread?
+
+A process is a self-contained execution environment and it has its own memory space.
+A thread is a separate path of execution that can run concurrently with other threads.
+
+What is the difference between user thread and daemon thread?
+
+User threads are high-priority threads that are used to execute user-defined tasks.
+Daemon threads are low-priority threads that are used to provide services to user threads.
+
